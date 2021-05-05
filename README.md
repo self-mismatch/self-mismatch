@@ -1,8 +1,8 @@
-- 👋 &nbsp;&nbsp;&nbsp; Hi, I’m @self-mismatch
-- 👀 &nbsp;&nbsp;&nbsp; I’m interested in Frontend
-- 🌱 &nbsp;&nbsp;&nbsp; I’m currently learning JavaScript and Angular
-- 💞️ &nbsp;&nbsp;&nbsp; I’m looking to collaborate on any interesting projects
-- 📫 &nbsp;&nbsp;&nbsp; How to reach me: this GitHub page
+- 👋 &nbsp;&nbsp; Hi, I’m @self-mismatch
+- 👀 &nbsp;&nbsp; I’m interested in Frontend
+- 🌱 &nbsp;&nbsp; I’m currently learning JavaScript and Angular
+- 💞️ &nbsp;&nbsp; I’m looking to collaborate on any interesting projects
+- 📫 &nbsp;&nbsp; How to reach me: this GitHub page
 
 <!---
 self-mismatch/self-mismatch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
