@@ -2,7 +2,7 @@
 - 👀  I’m interested in Frontend
 - 🌱  I’m currently learning JavaScript and Angular
 - 💞️  I’m looking to collaborate on any interesting projects
-- 📫  How to reach me: this GitHub page
+- 📫   How to reach me: this GitHub page
 
 <!---
 self-mismatch/self-mismatch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
