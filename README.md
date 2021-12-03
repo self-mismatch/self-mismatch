@@ -1,6 +1,6 @@
-- 👋 &nbsp;&nbsp; Hi, I’m @self-mismatch
+- 👋 &nbsp;&nbsp; Hi, I’m Vladislav
 - 👀 &nbsp;&nbsp; I’m interested in Frontend
-- 🌱 &nbsp;&nbsp; I’m currently learning JavaScript and Angular
+- 🌱 &nbsp;&nbsp; I’m currently learning JavaScript, Angular, Data Structures & Algorithms in depth
 - 💞️ &nbsp;&nbsp; I’m looking to collaborate on any interesting projects
 - 📫 &nbsp;&nbsp; How to reach me: this GitHub page, <a href="https://t.me/vr_web_programmer">Telegram</a>
 
