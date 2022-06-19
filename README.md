@@ -1,6 +1,6 @@
 - 👋 &nbsp;&nbsp; Hi, I’m Vladislav
 - 👀 &nbsp;&nbsp; I’m interested in Frontend
-- 🌱 &nbsp;&nbsp; I’m currently learning JavaScript, Angular, Data Structures & Algorithms in depth
+- 🌱 &nbsp;&nbsp; I’m currently learning JavaScript, TypeScript, Angular, Data Structures & Algorithms in depth
 - 💞️ &nbsp;&nbsp; I’m looking to collaborate on any interesting projects
 - 📫 &nbsp;&nbsp; How to reach me: <a href="https://t.me/SelfMismatch">Telegram</a>, <a href="https://twitter.com/SelfMismatch">Twitter</a>
 
